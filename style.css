@@ -1,0 +1,61 @@
+/* This is my styling sheet for my website */
+
+body {
+	font-family: Helvetica,Arial,sans-serif;
+	background-color: red;
+}
+
+h1 {
+	text-align: left;
+	font-size: 48px;
+	color: white;
+	border-style: solid;
+	background-color: blue;
+	font-family: "Arial";
+}
+
+p {
+	font-size: 24px;
+	color: black;
+	font-family: "Arial";
+}
+
+ol {
+	font-size: 24px;
+	color: black;
+	font-family: "Arial";
+}
+
+#index {
+	font-size: 48px;
+	color:black;
+	font-family: "Arial";
+}
+
+#image {
+	text-align: right;
+	border-style: solid;
+	font-family: "Arial";
+}
+
+#resume {
+	text-align: left;
+	font-size: 36px;
+	color: blue;
+	font-family: "Arial";
+}
+
+#resume_bod {
+	background-color: yellow;
+}
+
+#bio_bod {
+	background-color: green;
+}	 
+
+#bio_p {
+	color: white;
+	font-family: "Arial";
+	font-size: 24px;
+}
+	
